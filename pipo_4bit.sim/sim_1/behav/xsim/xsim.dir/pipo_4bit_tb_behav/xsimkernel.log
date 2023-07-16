@@ -1,0 +1,4 @@
+Running: xsim.dir/pipo_4bit_tb_behav/xsimk.exe -simmode gui -wdb pipo_4bit_tb_behav.wdb -simrunnum 0 -socket 62639
+Design successfully loaded
+Design Loading Memory Usage: 8508 KB (Peak: 8508 KB)
+Design Loading CPU Usage: 0 ms
