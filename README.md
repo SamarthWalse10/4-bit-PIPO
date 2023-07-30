@@ -1,4 +1,4 @@
-# 4-bit-PIPO
+# 4-bit-PIPO-Verilog
 4-bit Parallel Input Parallel Output Register (PIPO) Design in Verilog.     
 
 This repository contains the Verilog implementation of a 4-bit Parallel Input Parallel Output (PIPO) register using D flip-flops. The project focuses on designing and simulating a digital circuit that can store and transfer binary data in parallel mode.
